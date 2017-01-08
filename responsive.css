@@ -1,0 +1,299 @@
+@media only screen and (min-width: 1600px){
+.room_des_img_left {
+  width: inherit !important;
+}
+.room_des_img_right {
+  width: inherit !important;
+}
+.room_desc_img{  width: inherit !important;}
+
+.river_crossing_image img {
+  width: 100%;
+}
+.header_title_area{background-size:cover;}
+
+}
+
+@media only screen and (min-width: 1500px){
+.room_des_img_left {
+  width: inherit !important;
+}
+.room_des_img_right {
+  width: inherit !important;
+}
+.room_desc_img{  width: inherit !important;}
+
+.river_crossing_image img {
+  width: 100%;
+}
+.header_title_area{background-size:cover;}
+
+}
+
+
+/* Tablet Layout: 1170px. */
+@media only screen and (min-width: 1170px){
+.container {width:1170px;}
+.slicknav_menu{display:none;}
+.mainmenu_area{display:block;}
+
+
+.room_des_img_left {
+  width: 46%;
+}
+.room_des_img_right {
+  width: 46%;
+}
+.room_desc_img{  width: 100%;}
+
+
+
+
+
+}
+
+/* Tablet Layout: 970px. */
+@media only screen and (min-width: 970px) and (max-width: 1169px) {
+.container {width:970px;}
+.slicknav_menu{display:none;}
+.mainmenu_area{display:block;}
+
+
+.room_des_img_left {
+  width: 46%;
+}
+.room_des_img_right {
+  width: 46%;
+}
+.room_desc_img{  width: 100%;}
+
+.room_des_text {
+  padding-top: 6px;
+}
+.mainmenu_area ul#nav li a {
+  padding: 28px 19px;
+}
+.traingle {
+  right: -26px;
+}
+
+.header_client ul li {
+  padding: 20px 4px;
+}
+.nivo-directionNav a {
+top: 37%;
+}
+
+}
+
+
+/* Tablet Layout: 750px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.container {width:750px}
+.slicknav_menu{display:none;}
+.mainmenu_area{display:block;}
+
+
+.room_des_img_left {
+  width: 46%;
+}
+.room_des_img_right {
+  width: 46%;
+}
+.room_desc_img{  width: 100%;}
+
+
+.mainmenu_area ul#nav li a {
+  padding: 28px 6px;
+}
+.phone_number_header a {
+  font-size: 36px;
+}
+a.call_to {
+  padding: 18px 0;
+}
+.social_icons_header ul li a {
+  width: 55px;
+}
+.nivo-directionNav a {
+  top: 49%;
+}
+.nivo-directionNav a {
+  margin-top: -23px;
+}
+.room_description_area h3 {
+  font-size: 20px;
+}
+.room_des_text {
+  padding-top: 0;
+}
+.bxslider li p {
+  width: 628px;
+}
+.footer_logo a img {
+  width: 100%;
+}
+.copyright p {
+  margin-left: 30px;
+  padding-top: 56px;
+}
+.footer_logo {
+  padding-left: 140px;
+}
+}
+
+@media (max-width: 767px) {
+.slicknav_menu{display:block;}
+.mainmenu_area{display:none;}
+a.phone_icon_head {
+  width: 69px;
+}
+.phone_number_header a {
+  font-size: 17px;
+}
+.header_contact_area {
+  height: 155px;
+}
+.social_icons_header ul {
+  text-align: left;
+}
+.nivo-prevNav {
+  right: 0;
+  top: 118px !important;
+}
+.nivo-directionNav a.nivo-nextNav {
+  top: 19%;
+}
+.nivo-prevNav {
+  right: 0;
+  top: 102px !important;
+}
+.single_river_crossing {
+  width: 50%;
+}
+.room_des_img_left {
+  left: inherit;
+  position: inherit;
+}
+.room_des_img_right {
+  position: inherit;
+  right: inherit;
+}
+.bxslider li p {
+  width: 80%;
+}
+.subscribe_here input[type="text"] {
+  width: 60%;
+}
+.subscribe_here input[type="submit"] {
+  width: 34%;
+}
+.client_say_area {
+  min-height: 460px;
+}
+.footer_logo {
+  padding-left: 0;
+}
+.footer_logo img{
+	width:100%;
+}
+.copyright p {
+  margin-left: 15px;
+  padding-top: 30px;
+}
+.ModalCarrot_right {
+display:none;
+}
+.ModalCarrot{
+display:none;
+}
+.colom {
+  margin-bottom: 10px;
+}
+.room_des_img_left img {
+  width: 93%;
+}
+.room_des_img_right img {
+  width: 93%;
+}
+.social_icons_header ul li a {
+  width: 65px;
+}
+.get_intuch_middle h3 {
+  font-size: 11px;
+}
+a.phone_number {
+  font-size: 13px;
+}
+.get_in_tuch_right {
+  float: left;
+  margin-left: 17px;
+  width: 39%;
+}
+
+}
+
+@media (max-width: 450px) {
+.container{width:320px;}
+.slicknav_menu{display:block;}
+.mainmenu_area{display:none;}
+
+
+
+
+.header_contact_area {
+  height: 155px;
+}
+.social_icons_header ul {
+  text-align: left;
+}
+.single_river_crossing {
+  width: 100%;
+}
+.room_des_img_left {
+  left: inherit;
+  position: inherit;
+}
+.room_des_img_right {
+  position: inherit;
+  right: inherit;
+}
+.bxslider li p {
+  width: 80%;
+}
+.subscribe_here input[type="text"] {
+  width: 60%;
+}
+.subscribe_here input[type="submit"] {
+  width: 34%;
+}
+.client_say_area {
+  min-height: 460px;
+}
+.footer_logo {
+  padding-left: 0;
+}
+.footer_logo img{
+	width:100%;
+}
+.copyright p {
+  margin-left: 15px;
+  padding-top: 30px;
+}
+.social_icons_header ul li a {
+  width: 45px;
+}
+.room_des_img_left img {
+  width: 93%;
+}
+.room_des_img_right img {
+  width: 93%;
+}
+.get_intuch_middle {
+  width: 79%;
+}
+.get_intuch_middle h2 {
+  font-size: 15px;
+}
+} 
